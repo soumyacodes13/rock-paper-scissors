@@ -1,4 +1,3 @@
-# Rock Paper Scissors
 import random
 import re
 
