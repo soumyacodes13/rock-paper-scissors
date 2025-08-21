@@ -87,7 +87,7 @@ Developed by [Soumyajit](https://github.com/soumyacodes13)
 ---
 
 ## 📜 Source Code
-```
+```python
 # Rock Paper Scissors
 import random
 import re
@@ -138,4 +138,3 @@ while True:
     elif s=="player":
         p_count+=1
     scoreboard(a_count,p_count)
-    ```
